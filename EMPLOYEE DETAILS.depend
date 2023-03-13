@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1648635729 source:c:\users\kingsley\onedrive\desktop\all my c++ work\employee details\main.cpp
+	<iostream>
+	<iomanip>
+	"Employee.h"
+
+1648036490 c:\users\kingsley\onedrive\desktop\all my c++ work\employee details\include\employee.h
+
+1648620128 source:c:\users\kingsley\onedrive\desktop\all my c++ work\employee details\src\employee.cpp
+	"Employee.h"
+	<iostream>
+	<iomanip>
+
+1678458959 source:c:\users\kingsley\onedrive\desktop\hub\employee details\main.cpp
+	<iostream>
+	<iomanip>
+	"Employee.h"
+
+1648036492 c:\users\kingsley\onedrive\desktop\hub\employee details\include\employee.h
+
+1648623730 source:c:\users\kingsley\onedrive\desktop\hub\employee details\src\employee.cpp
+	"Employee.h"
+	<iostream>
+	<iomanip>
+
